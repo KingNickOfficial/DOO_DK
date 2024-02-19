@@ -3,7 +3,8 @@
 
 A Legal Modding Tool for Monkey See Monkey Doo Doo
 
-#Installation Instructions:
-#SOON
+Features: Texture Changer, New Settings, Modded Lobbies.
+Installation Instructions:
+SOON
 
 {ALPHA VERSION SOON}
